@@ -1,0 +1,10 @@
+Fitter Status : Successful - Thu Dec 05 19:17:46 2013
+Quartus II 64-Bit Version : 9.0 Build 235 06/17/2009 SP 2 SJ Full Version
+Revision Name : ASSIGNMENT1_NP
+Top-level Entity Name : ASSIGNMENT1_NP
+Family : FLEX10K
+Device : EPF10K70RC240-4
+Timing Models : Final
+Total logic elements : 16 / 3,744 ( < 1 % )
+Total pins : 13 / 189 ( 7 % )
+Total memory bits : 0 / 18,432 ( 0 % )
