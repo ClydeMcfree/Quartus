@@ -1,0 +1,1 @@
+This project was to design a 7 segment decoder using An Altera UP2 board. 
